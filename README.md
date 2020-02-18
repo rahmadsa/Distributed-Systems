@@ -14,5 +14,5 @@
 #### [Day  11 : Distributed File](./README.md)
 #### [Day  16:  Final Test](./README.md)
 
-### Books
-#### [Day  16:  Final Test](./Distributed Systems Principles and Paradigms.pdf)
+### Books:
+#### [DISTRIBUTED SYSTEMS 2nd Edition, Andrew S.Tanenbaum](./Distributed Systems Principles and Paradigms.pdf)
