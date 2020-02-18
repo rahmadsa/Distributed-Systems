@@ -15,9 +15,8 @@
 #### [Day  12:  Clustering](./README.md)
 #### [Day  13:  Clustering Case](./README.md)
 #### [Day  14:  Streaming](./README.md)
-#### [Day  14:  Streaming Case](./README.md)
+#### [Day  15:  Streaming Case](./README.md)
+#### [Day  16 : Final Test](./README.md
 
 ### Books:
-#### [DISTRIBUTED SYSTEMS Andrew S.Tanenbaum](./Distributed Systems Principles and Paradigms.pdf)
-
-<a target='_blank' href={require('path/to/pdf/file')}>PDF Doc</a>
+#### [DISTRIBUTED SYSTEMS Andrew S.Tanenbaum](./Distributed%20Systems%20Principles%20and%20Paradigms.pdf)
