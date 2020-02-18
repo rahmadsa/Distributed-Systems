@@ -13,3 +13,6 @@
 #### [Day  10 : Naming](./README.md)
 #### [Day  11 : Distributed File](./README.md)
 #### [Day  16:  Final Test](./README.md)
+
+### Books
+#### [Day  16:  Final Test](./Distributed Systems Principles and Paradigms.pdf)
