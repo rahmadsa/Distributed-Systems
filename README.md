@@ -3,7 +3,7 @@
 
 #### [Day    1 : Syllabus](./README.md)
 #### [Day    2 : Introducing](./README.md)
-#### [Day    3 : Distributed Operating System](./README.md)
+#### [Day    3 : ARCHITECTURES](./README.md)
 #### [Day    4 : Introduction Environment](./README.md)
 #### [Day    5 : Introduction Tools](./README.md)
 #### [Day    6 : Parallelism](./README.md)
