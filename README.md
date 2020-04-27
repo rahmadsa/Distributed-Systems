@@ -1,23 +1,8 @@
-# Distributed-Systems
+# Distributed Systems
+
+Lecture note for Distributed Computer Systems
+
 ### Table of Contents
-
-#### [Day    1 : Syllabus](./README.md)
-#### [Day    2 : Introducing](./README.md)
-#### [Day    3 : ARCHITECTURES](./README.md)
-#### [Day    4 : Introduction Environment](./README.md)
-#### [Day    5 : Introduction Tools](./README.md)
-#### [Day    6 : Parallelism](./README.md)
-#### [Day    7 : Parallelism Case](./README.md)
-#### [Day    8 : Mid Test](./README.md)
-#### [Day    9 : Distributed Process](./README.md)
-#### [Day  10 : Distributed Process Case I](./README.md)
-#### [Day  11 : Distributed Process Case II](./README.md)
-#### [Day  12:  Clustering](./README.md)
-#### [Day  13:  Clustering Case](./README.md)
-#### [Day  14:  Streaming](./README.md)
-#### [Day  15:  Streaming Case](./README.md)
-#### [Day  16 : Final Test](./README.md)
-
 #### [Topics  0. Syllabus](./README.md)
 #### [Topics  1. Characterization of Distributed Systems](./day1.md)
 #### [Topics  2. Distributed Systems Models](./day2.md)
